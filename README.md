@@ -14,3 +14,6 @@ Logging is a Python module in the standard library that provides the facility to
 + CRITICAL: A serious error, indicating that the program itself may be unable to continue running.
 
 
+### LogRecord Attributes, formats and Description [link](https://docs.python.org/3/library/logging.html#logrecord-attributes).
+
+
